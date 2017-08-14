@@ -1,6 +1,6 @@
 # US Gun Deaths Project
 
-The dataset came from FiveThirtyEight, and can be found here. The dataset is stored in the guns.csv file. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality. The columns contain demographic and other information about the victim.
+The dataset came from FiveThirtyEight. The dataset is stored in the guns.csv file. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality. The columns contain demographic and other information about the victim.
 
 Here's an explanation of each column:
 
@@ -22,4 +22,4 @@ Here's an explanation of each column:
     * 4 -- At least graduated from College
     * 5 -- Not available
    
-In this project, we'll explore the dataset, and try to find patterns in the demographics of the victims. Our first step is to read the data in and take a look at it.
+In this project, I will explore the dataset, and try to find patterns in the demographics of the victims. 
