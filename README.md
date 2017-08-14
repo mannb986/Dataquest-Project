@@ -15,10 +15,11 @@ Here's an explanation of each column:
 * hispanic -- a code indicating the Hispanic origin of the victim.
 * place -- where the shooting occurred. Has several categories, which you're encouraged to explore on your own.
 * education -- educational status of the victim. Can be one of the following:
-    1 -- Less than High School
-    2 -- Graduated from High School or equivalent
-    3 -- Some College
-    4 -- At least graduated from College
-    5 -- Not available
+
+    * 1 -- Less than High School
+    * 2 -- Graduated from High School or equivalent
+    * 3 -- Some College
+    * 4 -- At least graduated from College
+    * 5 -- Not available
    
 In this project, we'll explore the dataset, and try to find patterns in the demographics of the victims. Our first step is to read the data in and take a look at it.
